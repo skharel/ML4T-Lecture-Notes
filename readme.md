@@ -1,4 +1,4 @@
-# Codes from lecture for ML4T
+# Codes from lecture for ML4T - CS7646 class, Fall 2021
 
 [Syllabus](http://lucylabs.gatech.edu/ml4t/fall2021/)
 
