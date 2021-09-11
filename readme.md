@@ -27,3 +27,21 @@ Intro to ML:
 - [1-9.ipynb](./1-9.ipynb)
 - [3-1.ipynb](./3-1.ipynb)
 - [3-2.ipynb](./3-2.ipynb)
+
+## Week 4:
+
+- [Assessing learning Algorithm: 3-3.ipynb](./3-3.ipynb)
+  - Fitting data
+  - RMS Error
+  - In sample vs out of sample
+  - Cross validation, Roll forward cross validation
+  - Correlation and RMS Error
+  - Overfitting
+    <br/>
+- [Ensemble learners - bagging and boosting: 3-4.ipynb](./3-4.ipynb)
+  - Ensemble
+  - Bootstrap aggregating - bagging
+  - Overfitting
+  - Bagging example
+  - Boosting
+  - Overfitation
