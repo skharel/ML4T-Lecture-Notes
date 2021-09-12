@@ -5,7 +5,7 @@
 
 # Love the course!
 
-- This is definitely a well done class; take this class before you get into other AI/ML classes. You will learn a lot from here that will make your life easy on other classes.
+- This is definitely a well done class; take this class before you get into other AI/ML classes. You will learn a lot from here that will make your life easy for other classes.
 - You will learn numpy, pandas, data cleaning and visualization in this course
 
 # Image issue
@@ -16,13 +16,13 @@ Image rendering works locally (at least in VSCode for me; no clue on other IDEs)
 
 # Lecture video
 
-[Lecture is freely available for anyone!](https://omscs.gatech.edu/cs-7646-machine-learning-trading-course-videos)
+Lecture is freely available for anyone!
 
 https://omscs.gatech.edu/cs-7646-machine-learning-trading-course-videos
 
 # Notes
 
-## Week 1:
+## Week 1
 
 Hello Numpy and pandas!
 
@@ -31,9 +31,9 @@ Hello Numpy and pandas!
 - [1-3.ipynb](./1-3.ipynb)
 - [1-4.ipynb](./1-4.ipynb)
 
-## Week 2:
+## Week 2
 
-Optimizations:
+Optimizations
 
 - [1-5.ipynb](./1-5.ipynb)
 - [1-6.ipynb](./1-6.ipynb)
@@ -42,7 +42,7 @@ Optimizations:
 
 ## Week 3:
 
-Intro to ML:
+Intro to ML
 
 - [1-9.ipynb](./1-9.ipynb)
 - [3-1.ipynb](./3-1.ipynb)
