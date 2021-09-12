@@ -39,9 +39,18 @@ Intro to ML:
   - Overfitting
     <br/>
 - [Ensemble learners - bagging and boosting: 3-4.ipynb](./3-4.ipynb)
+
   - Ensemble
   - Bootstrap aggregating - bagging
   - Overfitting
   - Bagging example
   - Boosting
   - Overfitation
+
+- [Decision Tree & Random forest](./3-5_decision_tree.ipynb)
+  - 2 lecture videos
+    - 1st part: what does the tree look like
+    - 2nd part: building the tree
+      - JR Quinlan's algorithm
+      - A Cutler Algorithm
+      - Random forest
