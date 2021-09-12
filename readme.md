@@ -1,12 +1,26 @@
-# Codes from lecture for ML4T - CS7646 class, Fall 2021
+# GA Tech ML4T - CS7646 notes
 
-[Syllabus](http://lucylabs.gatech.edu/ml4t/fall2021/)
+[Syllabus for Fall 2021](http://lucylabs.gatech.edu/ml4t/fall2021/)
+[Course home](http://lucylabs.gatech.edu/ml4t/)
+
+# Love the course!
+
+- This is definitely a well done class; take this class before you get into other AI/ML classes. You will learn a lot from here that will make your life easy on other classes.
+- You will learn numpy, pandas, data cleaning and visualization in this course
 
 # Image issue
 
 I can't get images to render in GitHub (trust me all images are uploaded in images directory); if you can make it work, open up a PR.
 
 Image rendering works locally (at least in VSCode for me; no clue on other IDEs)
+
+# Lecture video
+
+[Lecture is freely available for anyone!](https://omscs.gatech.edu/cs-7646-machine-learning-trading-course-videos)
+
+https://omscs.gatech.edu/cs-7646-machine-learning-trading-course-videos
+
+# Notes
 
 ## Week 1:
 
