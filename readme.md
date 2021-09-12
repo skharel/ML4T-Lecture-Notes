@@ -40,7 +40,7 @@ Optimizations
 - [1-7.ipynb](./1-7.ipynb)
 - [1-8.ipynb](./1-8.ipynb)
 
-## Week 3:
+## Week 3
 
 Intro to ML
 
@@ -48,7 +48,7 @@ Intro to ML
 - [3-1.ipynb](./3-1.ipynb)
 - [3-2.ipynb](./3-2.ipynb)
 
-## Week 4:
+## Week 4
 
 - [Assessing learning Algorithm: 3-3.ipynb](./3-3.ipynb)
   - Fitting data
