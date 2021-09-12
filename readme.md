@@ -47,7 +47,7 @@ Intro to ML:
   - Boosting
   - Overfitation
 
-- [Decision Tree & Random forest](./3-5_decision_tree.ipynb)
+- [Decision Tree & Random forest: 3-5_decision_tree.ipynb](./3-5_decision_tree.ipynb)
   - 2 lecture videos
     - 1st part: what does the tree look like
     - 2nd part: building the tree
