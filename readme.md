@@ -1,4 +1,4 @@
-# GA Tech ML4T - CS7646 notes
+# GA Tech ML4T - CS 7646 notes
 
 [Syllabus for Fall 2021](http://lucylabs.gatech.edu/ml4t/fall2021/)
 [Course home](http://lucylabs.gatech.edu/ml4t/)
