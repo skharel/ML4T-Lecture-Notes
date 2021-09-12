@@ -2,6 +2,12 @@
 
 [Syllabus](http://lucylabs.gatech.edu/ml4t/fall2021/)
 
+# Image issue
+
+I can't get images to render in GitHub (trust me all images are uploaded in images directory); if you can make it work, open up a PR.
+
+Image rendering works locally (at least in VSCode for me; no clue on other IDEs)
+
 ## Week 1:
 
 Hello Numpy and pandas!
