@@ -8,12 +8,6 @@
 - This is definitely a well done class; take this class before you get into other AI/ML classes. You will learn a lot from here that will make your life easy for other classes.
 - You will learn numpy, pandas, data cleaning and visualization in this course
 
-# Image issue
-
-I can't get images to render in GitHub (trust me all images are uploaded in images directory); if you can make it work, open up a PR.
-
-Image rendering works locally (at least in VSCode for me; no clue on other IDEs)
-
 # Lecture video
 
 Lecture is freely available for anyone!
