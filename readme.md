@@ -72,6 +72,7 @@ Intro to ML
 ## Week 5
 
 - [So you want to be a hedge fund manager?](./2-1.ipynb)
+
   - Types of funds
   - Liquidity and capitalization
   - What type of fund is it?
@@ -80,3 +81,17 @@ Intro to ML
   - How funds attract investors
   - Hedge fund goals and metrics
   - The computing inside a hedge fund
+
+- [Market Mechanics](./2-2.ipynb)
+  - Market Mechanics Overview
+  - What is in an order?
+  - The order book
+  - Up or down?
+  - How orders affect the order book?
+  - How orders get to the exchanges
+  - How hedge funds exploit market mechanics
+  - additional order types
+  - Mechanics of short selling: Entry
+  - Short Selling
+  - Mechanics of short selling: Exit
+  - What can go wrong?
