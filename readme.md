@@ -68,3 +68,15 @@ Intro to ML
       - JR Quinlan's algorithm
       - A Cutler Algorithm
       - Random forest
+
+## Week 5
+
+- [So you want to be a hedge fund manager?](./2-1.ipynb)
+  - Types of funds
+  - Liquidity and capitalization
+  - What type of fund is it?
+  - Incentives for fund managers
+  - Two and twenty
+  - How funds attract investors
+  - Hedge fund goals and metrics
+  - The computing inside a hedge fund
