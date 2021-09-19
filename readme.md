@@ -71,7 +71,7 @@ Intro to ML
 
 ## Week 5
 
-- [So you want to be a hedge fund manager?](./2-1.ipynb)
+- [So you want to be a hedge fund manager? 2-1.ipynb](./2-1.ipynb)
 
   - Types of funds
   - Liquidity and capitalization
@@ -82,7 +82,7 @@ Intro to ML
   - Hedge fund goals and metrics
   - The computing inside a hedge fund
 
-- [Market Mechanics](./2-2.ipynb)
+- [Market Mechanics: 2-2.ipynb](./2-2.ipynb)
   - Market Mechanics Overview
   - What is in an order?
   - The order book
