@@ -59,7 +59,7 @@ Intro to ML
   - ML tool in use
   - Problems with regression
 
-- [3-2.ipynb](./3-2.ipynb)
+- [Regression: 3-2.ipynb](./3-2.ipynb)
   - Regression Introduction
   - Parametric Regression
   - K Nearest Neighbor
