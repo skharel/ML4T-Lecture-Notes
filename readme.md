@@ -38,9 +38,36 @@ Optimizations
 
 Intro to ML
 
-- [1-9.ipynb](./1-9.ipynb)
-- [3-1.ipynb](./3-1.ipynb)
+- [Optimizers: How to optimize a portfolio: 1-9.ipynb](./1-9.ipynb)
+
+  - What is portfolio optimization
+  - The difference optimization can make
+  - Which criteria is easiest to solve for?
+  - Framing te problem
+  - Ranges and constraints
+
+- [How Machine Learning is used at a hedge fund: 3-1.ipynb](./3-1.ipynb)
+
+  - How Machine learning is used at a hedge fund overview
+  - The ML problem
+  - What's X and Y
+  - Supervised Regression Learning
+  - How it works with stock data
+  - Example at a fintech company
+  - Price forecasting demo
+  - Backtesting
+  - ML tool in use
+  - Problems with regression
+
 - [3-2.ipynb](./3-2.ipynb)
+  - Regression Introduction
+  - Parametric Regression
+  - K Nearest Neighbor
+  - How to predict
+  - Kernel Regression
+  - Parametric vs Non-parametric
+  - Training and testing
+  - Example for linear Regression
 
 ## Week 4
 
