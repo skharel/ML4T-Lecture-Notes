@@ -122,3 +122,20 @@ Intro to ML
   - Short Selling
   - Mechanics of short selling: Exit
   - What can go wrong?
+
+## Week 6
+
+- [What is a company worth? 2-3.ipynb](./2-3.ipynb)
+
+  - What is a company worth?
+  - Why company value matters?
+  - The Balch Bond
+  - The value of a future dollar
+  - Intrinsic Value
+  - Book Value
+  - Market Capitalization
+  - Why information affects stock price
+  - Compute Company value
+  - Would buy this stock?
+
+- [The Capital Assets Pricing Model (CAPM): 2-4.ipynb](./2-4.ipynb)
