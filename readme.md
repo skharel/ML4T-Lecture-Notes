@@ -139,3 +139,13 @@ Intro to ML
   - Would buy this stock?
 
 - [The Capital Assets Pricing Model (CAPM): 2-4.ipynb](./2-4.ipynb)
+  - The Capital Assets Pricing Model
+  - Definition of a portfolio
+  - Portfolio return
+  - The market portfolio
+  - The CAPM Equation
+  - Compare alpha and beta
+  - CAPM vs active management
+  - CAPM for portfolios
+  - Implications of CAPM
+  - Arbitrage Pricing Theory
