@@ -149,3 +149,26 @@ Intro to ML
   - CAPM for portfolios
   - Implications of CAPM
   - Arbitrage Pricing Theory
+
+## Week 7
+
+- [How hedge funds use the CAPM: 2-5.ipynb](./2-5.ipynb)
+
+  - Risks for hedge funds
+  - Two stock scenario
+  - Two stock CAPM Math
+  - Allocations remove market risk
+  - How does it work
+  - CAPM for hedge funds Summary
+
+- [Technical Analysis: 2-6.ipynb](./2-6.ipynb)
+  - Technical versus fundamental analysis
+  - Characteristics
+  - Potential indicators
+  - When is technical analysis valuable?
+  - A few indicators:
+    - Momentum
+    - Simple Moving Average
+    - Bollinger bands
+  - Buy or Sell?
+  - Normalization
