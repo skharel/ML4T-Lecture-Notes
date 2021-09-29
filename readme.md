@@ -172,3 +172,24 @@ Intro to ML
     - Bollinger bands
   - Buy or Sell?
   - Normalization
+
+## Week 8
+
+- [Dealing with Data: 2-7.ipynb](./2-7.ipynb)
+
+  - Overview
+  - How data is aggregated
+  - Price anomaly
+  - Stock Splits
+  - Split adjustment
+  - Dividends
+  - Adjusting for Dividends
+  - Survivor bias
+
+- [Efficient Markets Hypothesis: 2-8.ipynb](./2-8.ipynb)
+  - Our hypothesis
+  - EMH hypothesis
+  - Origin of Information
+  - 3 forms of EMH
+  - The EMH Prohibits
+  - Is the EMH correct?
