@@ -187,9 +187,13 @@ Intro to ML
   - Survivor bias
 
 - [Efficient Markets Hypothesis: 2-8.ipynb](./2-8.ipynb)
+
   - Our hypothesis
   - EMH hypothesis
   - Origin of Information
   - 3 forms of EMH
   - The EMH Prohibits
   - Is the EMH correct?
+
+- [Market Simulator](./MarketSimulator.ipynb)
+  - [Youtube link](https://www.youtube.com/watch?v=TstVUVbu-Tk)
