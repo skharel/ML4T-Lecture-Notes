@@ -197,3 +197,9 @@ Intro to ML
 
 - [Market Simulator](./MarketSimulator.ipynb)
   - [Youtube link](https://www.youtube.com/watch?v=TstVUVbu-Tk)
+
+## Week 9
+
+- [Time Series Data](./timeseries_data.ipynb)
+  - [youtube video](https://www.youtube.com/watch?v=2e2Yr-Bpo-w)
+- [Vectorize me PPT](./CDB_vectorize_me.pptx)
