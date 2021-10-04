@@ -21,9 +21,13 @@ https://omscs.gatech.edu/cs-7646-machine-learning-trading-course-videos
 Hello Numpy and pandas!
 
 - [1-1.ipynb](./1-1.ipynb)
+  - Reading and plotting stock data
 - [1-2.ipynb](./1-2.ipynb)
+  - Working with multiple stocks
 - [1-3.ipynb](./1-3.ipynb)
+  - Power of NumPy
 - [1-4.ipynb](./1-4.ipynb)
+  - Statistical analysis of time series
 
 ## Week 2
 
@@ -201,5 +205,5 @@ Intro to ML
 ## Week 9
 
 - [Time Series Data](./timeseries_data.ipynb)
-  - [youtube video](https://www.youtube.com/watch?v=2e2Yr-Bpo-w)
 - [Vectorize me PPT](./CDB_vectorize_me.pptx)
+  - Both are covered in the [youtube video](https://www.youtube.com/watch?v=2e2Yr-Bpo-w)
