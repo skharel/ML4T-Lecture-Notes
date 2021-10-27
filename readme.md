@@ -20,23 +20,50 @@ https://omscs.gatech.edu/cs-7646-machine-learning-trading-course-videos
 
 Hello Numpy and pandas!
 
-- [1-1.ipynb](./1-1.ipynb)
-  - Reading and plotting stock data
-- [1-2.ipynb](./1-2.ipynb)
-  - Working with multiple stocks
-- [1-3.ipynb](./1-3.ipynb)
-  - Power of NumPy
-- [1-4.ipynb](./1-4.ipynb)
-  - Statistical analysis of time series
+- [Reading and plotting stock data: 1-1.ipynb](./1-1.ipynb)
+- [Working with multiple stocks: 1-2.ipynb](./1-2.ipynb)
+- [Power of NumPy: 1-3.ipynb](./1-3.ipynb)
+- [Statistical analysis of time series: 1-4.ipynb](./1-4.ipynb)
 
 ## Week 2
 
 Optimizations
 
-- [1-5.ipynb](./1-5.ipynb)
-- [1-6.ipynb](./1-6.ipynb)
-- [1-7.ipynb](./1-7.ipynb)
-- [1-8.ipynb](./1-8.ipynb)
+- [Incomplete data: 1-5.ipynb](./1-5.ipynb)
+- [Histograms and scatter plots: 1-6.ipynb](./1-6.ipynb)
+  - Histograms and scatter plots
+  - A closer lok at daily returns
+  - What would it look like?
+  - Histogram of daily returns
+  - How to plot a histogram
+  - Computing histogram statistics
+  - Compare two histograms
+  - Plot two histograms together
+  - Scatter plots
+  - Fitting a line to data points
+  - Slope != correlation
+  - Correlation vs slope
+  - Scatter plots in python
+  - Real world use of kurtosis
+- [Sharpe ratio and other portfolio statistics: 1-7.ipynb](./1-7.ipynb)
+  - Overview
+  - Daily Portfolio values
+  - Portfolio Statistics
+  - Which portfolio is better?
+  - Sharpe Ratio
+  - Form of the Sharpe Ratio
+  - Computing Sharpie Ratio
+- [Optimizers: Building a parameterized model: 1-8.ipynb](./1-8.ipynb)
+  - What is an optimizer?
+  - Minimization example
+  - Minimizer in pythong
+  - How to defeat a minimizer
+  - Convex Problems
+  - Building a parameterized model
+  - What is a good error metric?
+  - Minimizers finds coefficients
+  - Fit a line to given data points
+  - And it works for polynomials too!
 
 ## Week 3
 
@@ -207,3 +234,5 @@ Intro to ML
 - [Time Series Data](./timeseries_data.ipynb)
 - [Vectorize me PPT](./CDB_vectorize_me.pptx)
   - Both are covered in the [youtube video](https://www.youtube.com/watch?v=2e2Yr-Bpo-w)
+
+## [Navigation project](./navigation_project.ipynb)
