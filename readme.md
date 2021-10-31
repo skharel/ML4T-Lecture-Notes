@@ -236,3 +236,5 @@ Intro to ML
   - Both are covered in the [youtube video](https://www.youtube.com/watch?v=2e2Yr-Bpo-w)
 
 ## [Navigation project](./navigation_project.ipynb)
+
+## QLearning Trader project overview(./qlearning_Trader_project.ipynb)
