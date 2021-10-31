@@ -237,4 +237,4 @@ Intro to ML
 
 ## [Navigation project](./navigation_project.ipynb)
 
-## QLearning Trader project overview(./qlearning_Trader_project.ipynb)
+## [QLearning Trader project overview](./qlearning_Trader_project.ipynb)
